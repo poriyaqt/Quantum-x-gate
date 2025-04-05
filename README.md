@@ -7,4 +7,4 @@ A simple yet exciting showcase of the X gate in Qiskit – complete with simulat
 
 [X Gate Result](x_gate_result.png)
 
-Ready to dive into quantum computing? Check out the notebook and see the X gate in action!
+
